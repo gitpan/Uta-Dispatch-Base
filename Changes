@@ -1,0 +1,6 @@
+Revision history for Perl extension Uta::Dispatch::Base.
+
+0.01  Mon Mar  2 05:44:16 2009
+	- original version; created by h2xs 1.23 with options
+		-AX -n Uta::Base -n Uta::Validator -n Uta::Dispatch::Base
+
